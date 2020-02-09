@@ -17,6 +17,9 @@
     background: #000;
 }
 
+.fa-user {
+    width: 20px;
+}
 
 @media (min-width: 1199px) {
     .port-item {
